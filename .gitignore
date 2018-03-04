@@ -7,6 +7,7 @@ web2py/LICENSE
 web2py/MANIFEST.in
 web2py/README.markdown
 web2py/VERSION
+web2py/NEWINSTALL
 web2py/anyserver.py
 web2py/fabfile.py
 web2py/applications/__init__.py
