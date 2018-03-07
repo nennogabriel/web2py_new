@@ -14,6 +14,7 @@ fi
 #    else
 #        npm install
 #        npm i -g npm
+#        npm i npm
 #fi
 #
 #if [ -d "./web2py/applications/init/00_local" ]
